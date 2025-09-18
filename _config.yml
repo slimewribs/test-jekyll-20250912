@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Strange Case of Dr Jekyll and Mr Slime
+title: Slime HQ
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  For 7 full days, Dr Jekyll refused to install on Mr Slime's computer, but at long last the doctor's time has come.
+  Welcome to Slime HQ.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
